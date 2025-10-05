@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ch12_ex2_userAdmin:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ch12_ex2_userAdmin_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ch12_ex2_userAdmin" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ch12_ex2_userAdmin/web/Web" />
+    </root>
+  </artifact>
+</component>
